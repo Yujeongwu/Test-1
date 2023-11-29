@@ -1,0 +1,77 @@
+[33mcommit 36a8c13b92519ddddc5706b57af0c93d7f5cf706[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:21:36 2023 +0900
+
+    change main to use list ops
+
+[33mcommit d25d03ed1d6c5f263c46f8fbc6af080699bb224c[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:20:53 2023 +0900
+
+    implement multiply and substract
+
+[33mcommit 58ec8757a443c50859574832297763970722265f[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:20:08 2023 +0900
+
+    implement add and subtract
+
+[33mcommit 020cf0bc593914cb2d6ab67762800552615b353e[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:19:27 2023 +0900
+
+    implement add and subtract
+
+[33mcommit 4a2d20e305d61e620eb9c0d3bf4783ba83c04523[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:16:49 2023 +0900
+
+    move files to git practice
+
+[33mcommit 5d142db841d3a4d2e49056efd90b5aae696f7d6b[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:15:56 2023 +0900
+
+    merge conflict
+
+[33mcommit 126868ee735151eb2c95e266cbf26b906f49be6d[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:13:36 2023 +0900
+
+    edit anything.py
+
+[33mcommit 9b2c9b23ba47d657d633e977e80ef834c857909a[m
+Author: dogmomo47@github.com <root@pc>
+Date:   Wed Nov 29 14:09:02 2023 +0900
+
+    add new file
+
+[33mcommit 7cc39ead1d9770244a9719f898292b56a3a1db33[m
+Author: root <yjwdragon@naver.com>
+Date:   Wed Nov 29 13:52:30 2023 +0900
+
+    move fiels
+
+[33mcommit 1900e92faa0914bdfca3dc704652fd337eee3af1[m
+Author: root <yjwdragon@naver.com>
+Date:   Tue Nov 28 11:36:07 2023 +0900
+
+    add gitignore to ignore pycache
+
+[33mcommit 83837279f1e908ba74b8b881f946c6dd3bec5bd5[m
+Author: root <yjwdragon@naver.com>
+Date:   Tue Nov 28 11:28:44 2023 +0900
+
+    make function add_lists
+
+[33mcommit f604460768c76a60f94a650dd5466b570e7a485a[m
+Author: JW <dogmomo47@gmail.com>
+Date:   Thu Nov 23 00:24:25 2023 +0900
+
+    add anything.py
+
+[33mcommit 5855864607bc308315058e546afa86f0d67dffb2[m
+Author: Yujeongwu <151709522+Yujeongwu@users.noreply.github.com>
+Date:   Wed Nov 22 14:13:21 2023 +0900
+
+    Initial commit
