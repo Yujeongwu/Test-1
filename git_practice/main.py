@@ -1,7 +1,10 @@
-from add_lists import add_lists
+# main.py
+import list_ops as lo
 
 if __name__ == "__main__":
-<<<<<<< HEAD
-    result = add_lists(['wel', 't', 'r'], ['come', 'o', 'os'])
-    print(result)
->>>>>>> 512fb8d328e1e28832e831d7a46db55a13675bc9
+    foo = [1,2,3]
+    bar = [4,5,6]
+    print("foo+bar=", lo.add(foo, bar))
+    print("foo-bar=", lo.subtract(foo, bar))
+    print("foo*bar=", lo.multiply(foo, bar))
+    print("foo/bar=", lo.divide(foo, bar))
